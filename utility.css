@@ -1,0 +1,43 @@
+span,
+.cart-open p,
+.checkout-btn,
+.mobile-navbar-btn {
+    text-transform: capitalize;
+}
+
+.decrease-btn,
+.increase-btn,
+.btn-cart,
+.delete-btn img,
+.extra-img img,
+.large-img-previous-btn,
+.large-img-next-btn,
+.checkout-btn,
+ul li,
+.close-btn,
+.product-preview,
+.next-btn,
+.previous-btn {
+    cursor: pointer;
+}
+
+.product-img,
+.product-information,
+.product-detail,
+.product-information {
+    flex-direction: column;
+}
+
+.company-name p,
+.discount,
+.orignal-price,
+.btn-cart,
+.cart-counter,
+.amount,
+.cart-heading,
+.total-amount,
+.checkout-btn,
+.mobile-navbar-btn,
+.empty-cart-text p {
+    font-weight: bold;
+}
